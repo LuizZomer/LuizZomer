@@ -6,7 +6,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFreitassc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/LuizZomer&show_icons=true&theme=radical)
 ### Estou estudando as seguintes tecnologias
 <div style="display: inline_block"><br/>
 @@ -17,4 +20,5 @@
