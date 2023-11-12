@@ -9,4 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizZomer&show_icons=true&theme=radical)
 <div style="display: inline_block"><br/>
 
- 
+## Projetos
+
+Palavra secreta(Feito em React JS) - [clique aqui!](https://luizzomer.github.io/Palavra_secreta/)
