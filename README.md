@@ -15,4 +15,6 @@ Palavra secreta(Feito em React JS) - [clique aqui!](https://luizzomer.github.io/
 
 MiniBlog(React Js e Firebase) - [clique aqui!](http://projeto-mini-blog-two.vercel.app)
 
-Landing page Rocket LEague(Next JS) - [clique aqui!](https://landing-page-rocket-ojuk3twrv-luiz-felipe-silveiras-projects.vercel.app/)
+Landing page Rocket League(Next JS) - [clique aqui!](https://landing-page-rocket-ojuk3twrv-luiz-felipe-silveiras-projects.vercel.app/)
+
+Lista de contatos(React js e SpringBoot) - [clique aqui!](https://lista-telefonica-react-and-spring.vercel.app/)
