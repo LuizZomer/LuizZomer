@@ -14,3 +14,5 @@
 Palavra secreta(Feito em React JS) - [clique aqui!](https://luizzomer.github.io/Palavra_secreta/)
 
 MiniBlog(React Js e Firebase) - [clique aqui!](http://projeto-mini-blog-two.vercel.app)
+
+Landing page Rocket LEague(Next JS) - [clique aqui!](https://landing-page-rocket-ojuk3twrv-luiz-felipe-silveiras-projects.vercel.app/)
