@@ -11,10 +11,10 @@ Site git: [![Site Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-bad
 
 ## Projetos
 
-Palavra secreta(Feito em React JS) - [clique aqui!](https://luizzomer.github.io/Palavra_secreta/)
+Brainwave(Feito em React JS) - [clique aqui!](https://brainwave-seven-eosin.vercel.app/)
 
 MiniBlog(React Js e Firebase) - [clique aqui!](http://projeto-mini-blog-two.vercel.app)
 
 Sistema de gestão para pizzaria(ReactJS, NestJS) - [clique aqui!](https://github.com/LuizZomer/projetoWeb)
 
-Planjedor de viagem (React Native e NestJS) - [clique aqui!](https://github.com/LuizZomer/PlanejadorViagem)
+Planjedor de viagem(React Native e NestJS) - [clique aqui!](https://github.com/LuizZomer/PlanejadorViagem)
