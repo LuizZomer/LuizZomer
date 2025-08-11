@@ -15,6 +15,6 @@ Palavra secreta(Feito em React JS) - [clique aqui!](https://luizzomer.github.io/
 
 MiniBlog(React Js e Firebase) - [clique aqui!](http://projeto-mini-blog-two.vercel.app)
 
-Landing page Rocket League(Next JS) - [clique aqui!](http://landing-page-rocket.vercel.app)
+Sistema de gestão para pizzaria(ReactJS, NestJS) - [clique aqui!](https://github.com/LuizZomer/projetoWeb)
 
-Lista de contatos(React js e SpringBoot) - [clique aqui!](https://lista-telefonica-react-and-spring.vercel.app/)
+Planjedor de viagem (React Native e NestJS) - [clique aqui!](https://github.com/LuizZomer/PlanejadorViagem)
