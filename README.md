@@ -18,3 +18,5 @@ MiniBlog(React Js e Firebase) - [clique aqui!](http://projeto-mini-blog-two.verc
 Sistema de gestão para pizzaria(ReactJS, NestJS) - [clique aqui!](https://github.com/LuizZomer/projetoWeb)
 
 Planjedor de viagem(React Native e NestJS) - [clique aqui!](https://github.com/LuizZomer/PlanejadorViagem)
+
+Gerenciador de variáveis de ambiente(EnvVault) - [Clique aqui!](https://github.com/NextSyntaxDev/EnvVault)
