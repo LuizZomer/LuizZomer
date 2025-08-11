@@ -19,4 +19,4 @@ Sistema de gestão para pizzaria(ReactJS, NestJS) - [clique aqui!](https://githu
 
 Planjedor de viagem(React Native e NestJS) - [clique aqui!](https://github.com/LuizZomer/PlanejadorViagem)
 
-Gerenciador de variáveis de ambiente(EnvVault) - [Clique aqui!](https://github.com/NextSyntaxDev/EnvVault)
+EnvVault, Gerenciador de variáveis de ambiente(NextJS e SpringBoot) - [Clique aqui!](https://github.com/NextSyntaxDev/EnvVault)
